@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/integration.iml" filepath="$PROJECT_DIR$/integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-common/integration-common.iml" filepath="$PROJECT_DIR$/integration-common/integration-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-controller/integration-controller.iml" filepath="$PROJECT_DIR$/integration-controller/integration-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-entity/integration-entity.iml" filepath="$PROJECT_DIR$/integration-entity/integration-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-mapper/integration-mapper.iml" filepath="$PROJECT_DIR$/integration-mapper/integration-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-service/integration-service.iml" filepath="$PROJECT_DIR$/integration-service/integration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-web/integration-web.iml" filepath="$PROJECT_DIR$/integration-web/integration-web.iml" />
+    </modules>
+  </component>
+</project>

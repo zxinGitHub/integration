@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="integration-common" />
+        <module name="integration-controller" />
+        <module name="integration-entity" />
+        <module name="integration-mapper" />
+        <module name="integration-service" />
+        <module name="integration-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="integration" target="1.8" />
+      <module name="integration-common" target="1.8" />
+      <module name="integration-controller" target="1.8" />
+      <module name="integration-entity" target="1.8" />
+      <module name="integration-mapper" target="1.8" />
+      <module name="integration-service" target="1.8" />
+      <module name="integration-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

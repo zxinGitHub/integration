@@ -1,0 +1,4 @@
+com\demo\integration\config\DateSourceConfig.class
+com\demo\integration\config\MybatisPlusConfig.class
+com\demo\integration\generator\MpGenerator.class
+com\demo\integration\Application.class
